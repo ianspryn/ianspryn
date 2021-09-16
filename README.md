@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 - :briefcase: Employed at UPMC Enterprises
 - :hammer_and_wrench: Experience — Frontend & backend developer, designer
 - :mortar_board: Computer Science — Class of 2020
-- :construction: Currently working on Whisk — A Place for Every Recipe
+- :construction: Currently working on [Whisk It — A Place for Every Recipe](https://whiskit.app)
 
 
 
