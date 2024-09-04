@@ -39,11 +39,13 @@ Here are some ideas to get you started:
 
 <br>
 
+<!--
 <img
   align="right"
   height="165"
   src="https://github-readme-stats.vercel.app/api?username=ianspryn&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues&title_color=E05E6A&icon_color=ee98fb&bg_color=ffffff00&text_color=E05E6A&hide_border=true"
 />
+-->
 
 - :briefcase: Employed at UPMC Enterprises
 - :hammer_and_wrench: Experience — Frontend & backend developer, designer
